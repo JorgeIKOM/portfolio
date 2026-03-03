@@ -15,6 +15,7 @@ I'm an Odoo developer with **10 years of experience** working with Odoo versions
 - [Grupo NXT - Odoo Implementation](https://odoo.gruponxt.com/)
 - [Provem - Odoo Solution](http://odoo.provem.com/)
 - [TerraSphere](https://terrasphere.co.uk/)
+- [PALMEXICO](https://palmexico.com.mx/)
 
 ## Skills
 - Odoo ERP (Versions 8 - 20)
