@@ -1,4 +1,4 @@
-# Odoo And AI Development Portfolio
+# AI And Odoo Development Portfolio
 
 ## About Me
 I'm an Odoo developer with **10 years of experience** working with Odoo versions 8 through 20 and 2 years working with AI. I lead a team of 3 developers specializing in:
